@@ -1,0 +1,101 @@
+Car Name,Model,Vehicle Year,Vehicle ID,Price,KM Driven,Color,Transmission,Short Description,Seating Capacity,Fuel Type
+2017 Jaguar XJ,XJ,2017,6d2fdfd3-ae6_5017,3100000,70000,Black,Automatic,Jaguar XJ in Gurgaon @ Rs. 31 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,21ef2ae4-c6e_5015,3199999,38254,Black,Automatic,Jaguar XJ in Kolkata @ Rs. 32 Lakh,5,Diesel
+2020 Hyundai i20,i20 2020-2023,2020,a8c06493-b69_8151,735000,69000,Grey,Automatic,Hyundai i20 in Panchkula @ Rs. 7.35 Lakh,5,Petrol
+2023 Skoda Slavia,Slavia,2023,70a0b605-7d7_9779,1450000,15000,Silver,Automatic,Skoda Slavia in Mumbai @ Rs. 14.50 Lakh,5,Petrol
+2022 BMW 6 Series,6 Series,2022,efe74a3f-b9f_8418,4790000,37000,Grey,Automatic,BMW 6 Series in Gurgaon @ Rs. 47.90 Lakh,4,Petrol
+2022 Honda WR-V,WRV 2017-2020,2022,f0641812-e57_5668,730000,39734,Golden Brown,Manual,Honda WR-V in Rajahmundry @ Rs. 7.30 Lakh,5,Petrol
+2013 Honda Brio,Brio 2013-2016,2013,9dfbf0c0-1b9_1188,350000,56313,Silver,Manual,Honda Brio in Vadodara @ Rs. 3.50 Lakh,5,Petrol
+2019 Hyundai Grand i10,Grand i10,2019,b65b1638-17f_5603,350000,45131,Red,Automatic,Hyundai Grand i10 in Durg @ Rs. 3.50 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,8f1755d4-861_6708,3900000,40000,Blue,Automatic,Jaguar XJ in Gurgaon @ Rs. 39 Lakh,5,Diesel
+2019 Honda Amaze,Amaze 2016-2021,2019,a404d53a-32e_7447,290000,100690,White,Manual,Honda Amaze in Ghaziabad @ Rs. 2.90 Lakh,5,Diesel
+2020 Hyundai Grand i10 Nios,Grand i10 Nios 2019-2023,2020,f3230bea-f3e_7091,555000,42989,Blue,Manual,Hyundai Grand i10 Nios in Mumbai @ Rs. 5.55 Lakh,5,Petrol
+2022 Mahindra XUV300,XUV300,2022,982b1e63-033_8071,550000,50196,Black,Manual,Mahindra XUV300 in New Delhi @ Rs. 5.50 Lakh,4,Diesel
+2020 Volvo XC90,XC90 2014-2025,2020,c4f8f4c5-c86_7536,4900000,65000,Silver,Automatic,Volvo XC90 in Gurgaon @ Rs. 49 Lakh,7,Diesel
+2018 Maruti Ciaz,Ciaz,2018,29851989-cee_5718,450000,81000,Grey,Manual,Maruti Ciaz in Panchkula @ Rs. 4.50 Lakh,5,Diesel
+2023 MG ZS EV,ZS EV,2023,a480bae9-5a1_8880,1490000,32000,Black,Automatic,MG ZS EV in Mumbai @ Rs. 14.90 Lakh,5,Electric
+2021 Kia Seltos,Seltos 2019-2023,2021,b2fef05a-d3d_8568,1275000,51000,Black,Automatic,Kia Seltos in Mumbai @ Rs. 12.75 Lakh,5,Petrol
+2022 Mercedes-Benz GLC,GLC 2019-2023,2022,cbdbf39d-0b5_6837,4000000,40000,Other,Automatic,Mercedes-Benz GLC in Gurgaon @ Rs. 40 Lakh,5,Petrol
+2022 Tata Altroz,Altroz 2020-2023,2022,3acbcc72-ab4_7238,645000,79000,Grey,Manual,Tata Altroz in Panchkula @ Rs. 6.45 Lakh,5,Diesel
+2023 Mahindra Thar,Thar 2020-2025,2023,7a5be627-ca0_9532,1350000,10000,Black,Automatic,Mahindra Thar in Chennai @ Rs. 13.50 Lakh,4,Petrol
+2024 Hyundai Verna,Verna 2023-2026,2024,b31b69d9-813_9743,1475000,148000,White,Automatic,Hyundai Verna in Mumbai @ Rs. 14.75 Lakh,5,Petrol
+2017 Jaguar XJ,XJ,2017,6d2fdfd3-ae6_5017,3100000,70000,Black,Automatic,Jaguar XJ in Gurgaon @ Rs. 31 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,21ef2ae4-c6e_5015,3199999,38254,Black,Automatic,Jaguar XJ in Kolkata @ Rs. 32 Lakh,5,Diesel
+2020 Hyundai i20,i20 2020-2023,2020,a8c06493-b69_8151,735000,69000,Grey,Automatic,Hyundai i20 in Panchkula @ Rs. 7.35 Lakh,5,Petrol
+2023 Skoda Slavia,Slavia,2023,70a0b605-7d7_9779,1450000,15000,Silver,Automatic,Skoda Slavia in Mumbai @ Rs. 14.50 Lakh,5,Petrol
+2022 BMW 6 Series,6 Series,2022,efe74a3f-b9f_8418,4790000,37000,Grey,Automatic,BMW 6 Series in Gurgaon @ Rs. 47.90 Lakh,4,Petrol
+2022 Honda WR-V,WRV 2017-2020,2022,f0641812-e57_5668,730000,39734,Golden Brown,Manual,Honda WR-V in Rajahmundry @ Rs. 7.30 Lakh,5,Petrol
+2013 Honda Brio,Brio 2013-2016,2013,9dfbf0c0-1b9_1188,350000,56313,Silver,Manual,Honda Brio in Vadodara @ Rs. 3.50 Lakh,5,Petrol
+2019 Hyundai Grand i10,Grand i10,2019,b65b1638-17f_5603,350000,45131,Red,Automatic,Hyundai Grand i10 in Durg @ Rs. 3.50 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,8f1755d4-861_6708,3900000,40000,Blue,Automatic,Jaguar XJ in Gurgaon @ Rs. 39 Lakh,5,Diesel
+2019 Honda Amaze,Amaze 2016-2021,2019,a404d53a-32e_7447,290000,100690,White,Manual,Honda Amaze in Ghaziabad @ Rs. 2.90 Lakh,5,Diesel
+2020 Hyundai Grand i10 Nios,Grand i10 Nios 2019-2023,2020,f3230bea-f3e_7091,555000,42989,Blue,Manual,Hyundai Grand i10 Nios in Mumbai @ Rs. 5.55 Lakh,5,Petrol
+2022 Mahindra XUV300,XUV300,2022,982b1e63-033_8071,550000,50196,Black,Manual,Mahindra XUV300 in New Delhi @ Rs. 5.50 Lakh,4,Diesel
+2020 Volvo XC90,XC90 2014-2025,2020,c4f8f4c5-c86_7536,4900000,65000,Silver,Automatic,Volvo XC90 in Gurgaon @ Rs. 49 Lakh,7,Diesel
+2018 Maruti Ciaz,Ciaz,2018,29851989-cee_5718,450000,81000,Grey,Manual,Maruti Ciaz in Panchkula @ Rs. 4.50 Lakh,5,Diesel
+2023 MG ZS EV,ZS EV,2023,a480bae9-5a1_8880,1490000,32000,Black,Automatic,MG ZS EV in Mumbai @ Rs. 14.90 Lakh,5,Electric
+2021 Kia Seltos,Seltos 2019-2023,2021,b2fef05a-d3d_8568,1275000,51000,Black,Automatic,Kia Seltos in Mumbai @ Rs. 12.75 Lakh,5,Petrol
+2022 Mercedes-Benz GLC,GLC 2019-2023,2022,cbdbf39d-0b5_6837,4000000,40000,Other,Automatic,Mercedes-Benz GLC in Gurgaon @ Rs. 40 Lakh,5,Petrol
+2022 Tata Altroz,Altroz 2020-2023,2022,3acbcc72-ab4_7238,645000,79000,Grey,Manual,Tata Altroz in Panchkula @ Rs. 6.45 Lakh,5,Diesel
+2023 Mahindra Thar,Thar 2020-2025,2023,7a5be627-ca0_9532,1350000,10000,Black,Automatic,Mahindra Thar in Chennai @ Rs. 13.50 Lakh,4,Petrol
+2024 Hyundai Verna,Verna 2023-2026,2024,b31b69d9-813_9743,1475000,148000,White,Automatic,Hyundai Verna in Mumbai @ Rs. 14.75 Lakh,5,Petrol
+2017 Jaguar XJ,XJ,2017,6d2fdfd3-ae6_5017,3100000,70000,Black,Automatic,Jaguar XJ in Gurgaon @ Rs. 31 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,21ef2ae4-c6e_5015,3199999,38254,Black,Automatic,Jaguar XJ in Kolkata @ Rs. 32 Lakh,5,Diesel
+2020 Hyundai i20,i20 2020-2023,2020,a8c06493-b69_8151,735000,69000,Grey,Automatic,Hyundai i20 in Panchkula @ Rs. 7.35 Lakh,5,Petrol
+2023 Skoda Slavia,Slavia,2023,70a0b605-7d7_9779,1450000,15000,Silver,Automatic,Skoda Slavia in Mumbai @ Rs. 14.50 Lakh,5,Petrol
+2022 BMW 6 Series,6 Series,2022,efe74a3f-b9f_8418,4790000,37000,Grey,Automatic,BMW 6 Series in Gurgaon @ Rs. 47.90 Lakh,4,Petrol
+2022 Honda WR-V,WRV 2017-2020,2022,f0641812-e57_5668,730000,39734,Golden Brown,Manual,Honda WR-V in Rajahmundry @ Rs. 7.30 Lakh,5,Petrol
+2013 Honda Brio,Brio 2013-2016,2013,9dfbf0c0-1b9_1188,350000,56313,Silver,Manual,Honda Brio in Vadodara @ Rs. 3.50 Lakh,5,Petrol
+2019 Hyundai Grand i10,Grand i10,2019,b65b1638-17f_5603,350000,45131,Red,Automatic,Hyundai Grand i10 in Durg @ Rs. 3.50 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,8f1755d4-861_6708,3900000,40000,Blue,Automatic,Jaguar XJ in Gurgaon @ Rs. 39 Lakh,5,Diesel
+2019 Honda Amaze,Amaze 2016-2021,2019,a404d53a-32e_7447,290000,100690,White,Manual,Honda Amaze in Ghaziabad @ Rs. 2.90 Lakh,5,Diesel
+2020 Hyundai Grand i10 Nios,Grand i10 Nios 2019-2023,2020,f3230bea-f3e_7091,555000,42989,Blue,Manual,Hyundai Grand i10 Nios in Mumbai @ Rs. 5.55 Lakh,5,Petrol
+2022 Mahindra XUV300,XUV300,2022,982b1e63-033_8071,550000,50196,Black,Manual,Mahindra XUV300 in New Delhi @ Rs. 5.50 Lakh,4,Diesel
+2020 Volvo XC90,XC90 2014-2025,2020,c4f8f4c5-c86_7536,4900000,65000,Silver,Automatic,Volvo XC90 in Gurgaon @ Rs. 49 Lakh,7,Diesel
+2018 Maruti Ciaz,Ciaz,2018,29851989-cee_5718,450000,81000,Grey,Manual,Maruti Ciaz in Panchkula @ Rs. 4.50 Lakh,5,Diesel
+2023 MG ZS EV,ZS EV,2023,a480bae9-5a1_8880,1490000,32000,Black,Automatic,MG ZS EV in Mumbai @ Rs. 14.90 Lakh,5,Electric
+2021 Kia Seltos,Seltos 2019-2023,2021,b2fef05a-d3d_8568,1275000,51000,Black,Automatic,Kia Seltos in Mumbai @ Rs. 12.75 Lakh,5,Petrol
+2022 Mercedes-Benz GLC,GLC 2019-2023,2022,cbdbf39d-0b5_6837,4000000,40000,Other,Automatic,Mercedes-Benz GLC in Gurgaon @ Rs. 40 Lakh,5,Petrol
+2022 Tata Altroz,Altroz 2020-2023,2022,3acbcc72-ab4_7238,645000,79000,Grey,Manual,Tata Altroz in Panchkula @ Rs. 6.45 Lakh,5,Diesel
+2023 Mahindra Thar,Thar 2020-2025,2023,7a5be627-ca0_9532,1350000,10000,Black,Automatic,Mahindra Thar in Chennai @ Rs. 13.50 Lakh,4,Petrol
+2024 Hyundai Verna,Verna 2023-2026,2024,b31b69d9-813_9743,1475000,148000,White,Automatic,Hyundai Verna in Mumbai @ Rs. 14.75 Lakh,5,Petrol
+2017 Jaguar XJ,XJ,2017,6d2fdfd3-ae6_5017,3100000,70000,Black,Automatic,Jaguar XJ in Gurgaon @ Rs. 31 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,21ef2ae4-c6e_5015,3199999,38254,Black,Automatic,Jaguar XJ in Kolkata @ Rs. 32 Lakh,5,Diesel
+2020 Hyundai i20,i20 2020-2023,2020,a8c06493-b69_8151,735000,69000,Grey,Automatic,Hyundai i20 in Panchkula @ Rs. 7.35 Lakh,5,Petrol
+2023 Skoda Slavia,Slavia,2023,70a0b605-7d7_9779,1450000,15000,Silver,Automatic,Skoda Slavia in Mumbai @ Rs. 14.50 Lakh,5,Petrol
+2022 BMW 6 Series,6 Series,2022,efe74a3f-b9f_8418,4790000,37000,Grey,Automatic,BMW 6 Series in Gurgaon @ Rs. 47.90 Lakh,4,Petrol
+2022 Honda WR-V,WRV 2017-2020,2022,f0641812-e57_5668,730000,39734,Golden Brown,Manual,Honda WR-V in Rajahmundry @ Rs. 7.30 Lakh,5,Petrol
+2013 Honda Brio,Brio 2013-2016,2013,9dfbf0c0-1b9_1188,350000,56313,Silver,Manual,Honda Brio in Vadodara @ Rs. 3.50 Lakh,5,Petrol
+2019 Hyundai Grand i10,Grand i10,2019,b65b1638-17f_5603,350000,45131,Red,Automatic,Hyundai Grand i10 in Durg @ Rs. 3.50 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,8f1755d4-861_6708,3900000,40000,Blue,Automatic,Jaguar XJ in Gurgaon @ Rs. 39 Lakh,5,Diesel
+2019 Honda Amaze,Amaze 2016-2021,2019,a404d53a-32e_7447,290000,100690,White,Manual,Honda Amaze in Ghaziabad @ Rs. 2.90 Lakh,5,Diesel
+2020 Hyundai Grand i10 Nios,Grand i10 Nios 2019-2023,2020,f3230bea-f3e_7091,555000,42989,Blue,Manual,Hyundai Grand i10 Nios in Mumbai @ Rs. 5.55 Lakh,5,Petrol
+2022 Mahindra XUV300,XUV300,2022,982b1e63-033_8071,550000,50196,Black,Manual,Mahindra XUV300 in New Delhi @ Rs. 5.50 Lakh,4,Diesel
+2020 Volvo XC90,XC90 2014-2025,2020,c4f8f4c5-c86_7536,4900000,65000,Silver,Automatic,Volvo XC90 in Gurgaon @ Rs. 49 Lakh,7,Diesel
+2018 Maruti Ciaz,Ciaz,2018,29851989-cee_5718,450000,81000,Grey,Manual,Maruti Ciaz in Panchkula @ Rs. 4.50 Lakh,5,Diesel
+2023 MG ZS EV,ZS EV,2023,a480bae9-5a1_8880,1490000,32000,Black,Automatic,MG ZS EV in Mumbai @ Rs. 14.90 Lakh,5,Electric
+2021 Kia Seltos,Seltos 2019-2023,2021,b2fef05a-d3d_8568,1275000,51000,Black,Automatic,Kia Seltos in Mumbai @ Rs. 12.75 Lakh,5,Petrol
+2022 Mercedes-Benz GLC,GLC 2019-2023,2022,cbdbf39d-0b5_6837,4000000,40000,Other,Automatic,Mercedes-Benz GLC in Gurgaon @ Rs. 40 Lakh,5,Petrol
+2022 Tata Altroz,Altroz 2020-2023,2022,3acbcc72-ab4_7238,645000,79000,Grey,Manual,Tata Altroz in Panchkula @ Rs. 6.45 Lakh,5,Diesel
+2023 Mahindra Thar,Thar 2020-2025,2023,7a5be627-ca0_9532,1350000,10000,Black,Automatic,Mahindra Thar in Chennai @ Rs. 13.50 Lakh,4,Petrol
+2024 Hyundai Verna,Verna 2023-2026,2024,b31b69d9-813_9743,1475000,148000,White,Automatic,Hyundai Verna in Mumbai @ Rs. 14.75 Lakh,5,Petrol
+2017 Jaguar XJ,XJ,2017,6d2fdfd3-ae6_5017,3100000,70000,Black,Automatic,Jaguar XJ in Gurgaon @ Rs. 31 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,21ef2ae4-c6e_5015,3199999,38254,Black,Automatic,Jaguar XJ in Kolkata @ Rs. 32 Lakh,5,Diesel
+2020 Hyundai i20,i20 2020-2023,2020,a8c06493-b69_8151,735000,69000,Grey,Automatic,Hyundai i20 in Panchkula @ Rs. 7.35 Lakh,5,Petrol
+2023 Skoda Slavia,Slavia,2023,70a0b605-7d7_9779,1450000,15000,Silver,Automatic,Skoda Slavia in Mumbai @ Rs. 14.50 Lakh,5,Petrol
+2022 BMW 6 Series,6 Series,2022,efe74a3f-b9f_8418,4790000,37000,Grey,Automatic,BMW 6 Series in Gurgaon @ Rs. 47.90 Lakh,4,Petrol
+2022 Honda WR-V,WRV 2017-2020,2022,f0641812-e57_5668,730000,39734,Golden Brown,Manual,Honda WR-V in Rajahmundry @ Rs. 7.30 Lakh,5,Petrol
+2013 Honda Brio,Brio 2013-2016,2013,9dfbf0c0-1b9_1188,350000,56313,Silver,Manual,Honda Brio in Vadodara @ Rs. 3.50 Lakh,5,Petrol
+2019 Hyundai Grand i10,Grand i10,2019,b65b1638-17f_5603,350000,45131,Red,Automatic,Hyundai Grand i10 in Durg @ Rs. 3.50 Lakh,5,Petrol
+2019 Jaguar XJ,XJ,2019,8f1755d4-861_6708,3900000,40000,Blue,Automatic,Jaguar XJ in Gurgaon @ Rs. 39 Lakh,5,Diesel
+2019 Honda Amaze,Amaze 2016-2021,2019,a404d53a-32e_7447,290000,100690,White,Manual,Honda Amaze in Ghaziabad @ Rs. 2.90 Lakh,5,Diesel
+2020 Hyundai Grand i10 Nios,Grand i10 Nios 2019-2023,2020,f3230bea-f3e_7091,555000,42989,Blue,Manual,Hyundai Grand i10 Nios in Mumbai @ Rs. 5.55 Lakh,5,Petrol
+2022 Mahindra XUV300,XUV300,2022,982b1e63-033_8071,550000,50196,Black,Manual,Mahindra XUV300 in New Delhi @ Rs. 5.50 Lakh,4,Diesel
+2020 Volvo XC90,XC90 2014-2025,2020,c4f8f4c5-c86_7536,4900000,65000,Silver,Automatic,Volvo XC90 in Gurgaon @ Rs. 49 Lakh,7,Diesel
+2018 Maruti Ciaz,Ciaz,2018,29851989-cee_5718,450000,81000,Grey,Manual,Maruti Ciaz in Panchkula @ Rs. 4.50 Lakh,5,Diesel
+2023 MG ZS EV,ZS EV,2023,a480bae9-5a1_8880,1490000,32000,Black,Automatic,MG ZS EV in Mumbai @ Rs. 14.90 Lakh,5,Electric
+2021 Kia Seltos,Seltos 2019-2023,2021,b2fef05a-d3d_8568,1275000,51000,Black,Automatic,Kia Seltos in Mumbai @ Rs. 12.75 Lakh,5,Petrol
+2022 Mercedes-Benz GLC,GLC 2019-2023,2022,cbdbf39d-0b5_6837,4000000,40000,Other,Automatic,Mercedes-Benz GLC in Gurgaon @ Rs. 40 Lakh,5,Petrol
+2022 Tata Altroz,Altroz 2020-2023,2022,3acbcc72-ab4_7238,645000,79000,Grey,Manual,Tata Altroz in Panchkula @ Rs. 6.45 Lakh,5,Diesel
+2023 Mahindra Thar,Thar 2020-2025,2023,7a5be627-ca0_9532,1350000,10000,Black,Automatic,Mahindra Thar in Chennai @ Rs. 13.50 Lakh,4,Petrol
+2024 Hyundai Verna,Verna 2023-2026,2024,b31b69d9-813_9743,1475000,148000,White,Automatic,Hyundai Verna in Mumbai @ Rs. 14.75 Lakh,5,Petrol
